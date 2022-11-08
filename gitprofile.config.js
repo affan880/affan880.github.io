@@ -24,7 +24,7 @@ const config = {
     email: 'syedaffan880@gmail.com',
   },
   resume: {
-    fileUrl: 'https://drive.google.com/u/0/uc?id=1JdcwNCgJg8T9X-Zi77KZF7Zq-DtLRLf4&export=download', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: 'https://drive.google.com/file/d/1DCtk7mTgDek-vLN2YMpXO9LtI6eBuA_i/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JavaScript',
